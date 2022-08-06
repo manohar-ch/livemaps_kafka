@@ -1,1 +1,1 @@
-# Live maps detaisl using Kafka
+# Live maps details using Kafka
